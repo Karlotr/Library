@@ -1,0 +1,15 @@
+﻿  FileName.c
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(123,26): warning C4133: 'function': incompatible types - from '_Book *' to 'members'
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(128,35): warning C4133: 'function': incompatible types - from 'book' to 'members'
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(194,41): warning C4133: 'function': incompatible types - from 'members' to 'book'
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(194,59): warning C4133: 'function': incompatible types - from 'book' to 'char *'
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(194,71): warning C4047: 'function': 'int' differs in levels of indirection from 'char [1024]'
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(194,71): warning C4024: 'Borrow_Book': different types for formal and actual parameter 3
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(194,82): warning C4020: 'Borrow_Book': too many actual parameters
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(307,23): warning C4028: formal parameter 1 different from declaration
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(323,19): warning C4028: formal parameter 1 different from declaration
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(370,25): warning C4028: formal parameter 1 different from declaration
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(370,38): warning C4028: formal parameter 2 different from declaration
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(370,54): warning C4028: formal parameter 3 different from declaration
+C:\Users\karlo\Desktop\TestProject\TestProject\FileName.c(370,102): warning C4029: declared formal parameter list different from definition
+  TestProject.vcxproj -> C:\Users\karlo\Desktop\TestProject\x64\Debug\TestProject.exe
